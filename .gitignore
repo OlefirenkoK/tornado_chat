@@ -2,3 +2,5 @@
 *.swo
 *.swp
 env
+.idea/
+.ropeproject/
